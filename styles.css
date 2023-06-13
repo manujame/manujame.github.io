@@ -1,0 +1,57 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #004643;
+}
+
+.text {
+    position: absolute;
+    width: 528px;
+    height: 184px;
+    left: calc(50% - 528px/2 - 354px);
+    top: 148px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EFF0F3;
+}
+
+.one .two .three {
+    position: absolute;
+    width: 528px;
+    height: 184px;
+    left: calc(50% - 528px/2 - 354px);
+    top: 148px;
+    font-family: 'Outfit';
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.text > .one {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 45px;
+    color: #EFF0F3;
+}
+
+.text > .two {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0.05em;
+}
+
+.text > .three {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 50px;
+    color: #EFF0F3;
+}
