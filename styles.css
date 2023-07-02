@@ -55,3 +55,23 @@ body {
     line-height: 50px;
     color: #EFF0F3;
 }
+
+blur1 {
+    width: 428px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 428px;
+    opacity: 0.5;
+    background: #F9BC60;
+    filter: blur(80px);
+}
+
+blur2 {
+    width: 428px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 428px;
+    opacity: 0.5;
+    background: #F9BC60;
+    filter: blur(80px);
+}
