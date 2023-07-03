@@ -29,6 +29,7 @@
     width: 360px;
     height: 360px;
     object-fit: cover;
+    border-radius: 1%;
 }
 .hi {
     font-size: 36px;
