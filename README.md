@@ -1,2 +1,2 @@
 # manuja.github.io
-##### will update later
+##### personal website 1st ed.
