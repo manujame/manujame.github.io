@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
 .desktop-1-child {
     position: absolute;
     top: 791px;
